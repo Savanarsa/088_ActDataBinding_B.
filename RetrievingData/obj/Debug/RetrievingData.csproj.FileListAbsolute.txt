@@ -1,0 +1,10 @@
+D:\SAVA KAMPUS\SEM 4\PABD\RetrievingData\RetrievingData\bin\Debug\RetrievingData.exe.config
+D:\SAVA KAMPUS\SEM 4\PABD\RetrievingData\RetrievingData\bin\Debug\RetrievingData.exe
+D:\SAVA KAMPUS\SEM 4\PABD\RetrievingData\RetrievingData\bin\Debug\RetrievingData.pdb
+D:\SAVA KAMPUS\SEM 4\PABD\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.AssemblyReference.cache
+D:\SAVA KAMPUS\SEM 4\PABD\RetrievingData\RetrievingData\obj\Debug\RetrievingData.Form1.resources
+D:\SAVA KAMPUS\SEM 4\PABD\RetrievingData\RetrievingData\obj\Debug\RetrievingData.Properties.Resources.resources
+D:\SAVA KAMPUS\SEM 4\PABD\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.GenerateResource.cache
+D:\SAVA KAMPUS\SEM 4\PABD\RetrievingData\RetrievingData\obj\Debug\RetrievingData.csproj.CoreCompileInputs.cache
+D:\SAVA KAMPUS\SEM 4\PABD\RetrievingData\RetrievingData\obj\Debug\RetrievingData.exe
+D:\SAVA KAMPUS\SEM 4\PABD\RetrievingData\RetrievingData\obj\Debug\RetrievingData.pdb
